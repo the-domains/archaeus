@@ -1,0 +1,14 @@
+layout_spectrum: 0.3261649
+typography_spectrum: 0.7580645
+color:
+  saturation: 0.4767025
+  lightness: 0.4982079
+  brandStrength: 0.005376344
+  rhythmicContrast: 0.5089605
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Archaeus
